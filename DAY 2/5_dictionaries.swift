@@ -8,6 +8,9 @@ heights["Iphone13"]                                     //gives height of ali
 //we can’t be guarantee that a key in a dictionary exists. 
 //we might have requested a key that doesn’t exist! so it returns nil
 
+// Unknown Dictionaries 
+
+
 size["IphoneSE", default: "Unknown"]    //returns unknown if value does not exists
 //the key value must be of same data type as in dictionary
 let ratings = [1: "Bad", 2: "OK", 3: "Good"]          //key is integer
